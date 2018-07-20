@@ -1,0 +1,25 @@
+body {
+    background-color: aquamarine;
+}
+
+h1 {
+    color: purple;
+}
+
+#add-animal{
+    background-color: pink;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 60px;
+    height: 25px;
+    
+}
+
+#button-input-form {
+    color: purple;
+    font-weight: bold;
+}
